@@ -3,7 +3,6 @@
 [ ![Download](https://api.bintray.com/packages/lorcanluo/maven/keystoretool/images/download.svg?version=1.0.0) ](https://bintray.com/lorcanluo/maven/keystoretool/1.0.0/link)
 ```
 compile 'com.lorcanluo.keystoretool:keystore:1.0.0'
-
 ```
 
 
