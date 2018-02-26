@@ -1,0 +1,11 @@
+
+=squid:S2131"Use "Long.toString" instead.(ö½µ•ýÿÿÿÿ8ÄÌý¾˜,
+8squid:S2131"Use "Long.toString" instead.(¬©‹ç8‹Å€¿˜,
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ÄÇ‚·
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÈõÐÝüÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ŽºÖ8ŸÚ‰ý–,
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ŽºÖ8ŸÚ‰ý–,
+Isquid:S1125"(Remove the literal "true" boolean value.(çÜ‚ûþÿÿÿÿ8Ú²Ë—,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¶Åøš—,
+zsquid:S1450"YRemove the "btnEncrypt" field and declare it as a local variable in the relevant methods.(Þž÷¨øÿÿÿÿ8×¿æü–,
+vsquid:S1450"ZRemove the "btnDecrypte" field and declare it as a local variable in the relevant methods.(ÿÆÿî8Üæü–,

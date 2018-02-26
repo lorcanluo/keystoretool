@@ -1,0 +1,5 @@
+
+lsquid:S3008"WRename this field "SP_UTILS_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ά‰
+@squid:S1452"&Remove usage of generic wildcard type.(Η ω™όÿÿÿÿ
+]squid:S1226"CIntroduce a new variable instead of reusing the parameter "spName".(®‰Ψψÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(αμόÿÿÿÿ

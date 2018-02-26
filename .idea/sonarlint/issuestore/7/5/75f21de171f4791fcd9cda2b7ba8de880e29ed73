@@ -1,0 +1,20 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹¡³¥—,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8Óá²¥—,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8‹¡³¥—,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹¡³¥—,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã…©×8°×Æ¦—,
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(“ïÆéûÿÿÿÿ8‹¡³¥—,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Óá²¥—,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹¡³¥—,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8‹¡³¥—,
+‡squid:S1488"fImmediately return this expression instead of assigning it to the temporary variable "generateSecret".(Ö’Ãÿÿÿÿÿ8‹¡³¥—,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Óá²¥—,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Óá²¥—,
+b
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(ôü¿Ÿÿÿÿÿÿ8Óá²¥—,
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(üè¸Íüÿÿÿÿ8‹¡³¥—,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Óá²¥—,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Óá²¥—,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Óá²¥—,
