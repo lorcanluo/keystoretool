@@ -1,6 +1,11 @@
 # KeyStore工具库
 
 [ ![Download](https://api.bintray.com/packages/lorcanluo/maven/keystoretool/images/download.svg?version=1.0.0) ](https://bintray.com/lorcanluo/maven/keystoretool/1.0.0/link)
+```
+compile 'com.lorcanluo.keystoretool:keystore:1.0.0'
+
+```
+
 
 用于存储需要加密保存的数据，该版本做了兼容性处理。
 1. 6.0 以上版本使用KeyStore 直接存储AES密匙
